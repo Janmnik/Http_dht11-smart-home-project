@@ -48,7 +48,7 @@
        delay(1000);
       }
       WiFiClient client;
-      String host="http://192.168.x.x/TemperatureC/"+Temperature;
+      String host="http://192.168.x.x/:5108/HomeCondition/Temperature/Add?temperatureC="+Temperature;
       http.begin(client,host);
       int httpCode = http.GET();
       if (httpCode > 0) { //Check the returning code
