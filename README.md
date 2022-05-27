@@ -17,12 +17,12 @@ Adres Api serwera IP: 192.168.0.20 /24
 ### Response Code ###
 ---------------------------------------------------------------
 Error code: |
---- | --- 
+--- |  
 temp: 12 |
 Humidity: 167 |
 
 OFF: |
---- | --- 
+--- |
 temp: 0 |
 Humidity: 0 |
 
@@ -30,7 +30,8 @@ Humidity: 0 |
 The temperature data is currently being transferred in the program.
 The humidity data can be sent if changed variable name host.
 "IP:PORT&field1="+TempString&field2="+HumString
+![chart](https://github.com/SmartHomeUMG/Http_dht11/blob/main/chartThingSpeak.png)
 
-[chart]: https://github.com/SmartHomeUMG/Http_dht11/blob/main/chartThingSpeak.png "chart temperature & humidity ThingSpeak"
+
 
 
