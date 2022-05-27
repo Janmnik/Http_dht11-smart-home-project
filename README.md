@@ -14,7 +14,8 @@ by Adafruit Wersja 1.0.1
 Adres Api serwera IP: 192.168.0.20 /24 Api
 
 
-~Response Code~
+### Response Code ###
+---------------------------------------------------------------
 Error code:
 temp: 12
 Humidity: 167
