@@ -1,6 +1,6 @@
 ## Http_dht11
 
-Biblioteki:
+Libraries:
 
 Arduino_JSON
 by Arduino Wersja 0.1.0
