@@ -16,6 +16,11 @@ Adres Api serwera IP: 192.168.0.20 /24
 
 ### Response Code ###
 ---------------------------------------------------------------
+Data: |
+--- |
+temp: 1- |
+Humidity: 1-100 |
+
 Error code: |
 --- |  
 temp: 12 |
@@ -31,6 +36,9 @@ The temperature data is currently being transferred in the program.
 The humidity data can be sent if changed variable name host.
 "IP:PORT&field1="+TempString&field2="+HumString
 ![chart](https://github.com/SmartHomeUMG/Http_dht11/blob/main/chartThingSpeak.png)
+---------------------------------------------------------------
+Connection diagram
+![schemat](https://github.com/SmartHomeUMG/Http_dht11/blob/main/schemat.png)
 
 
 
