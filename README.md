@@ -18,18 +18,18 @@ Adres Api serwera IP: 192.168.0.20 /24
 ---------------------------------------------------------------
 Data: |
 --- |
-temp: 1- |
-Humidity: 1-100 |
+temp: 1-50°C |
+Humidity: 20-90%DH |
 
 Error code: |
 --- |  
-temp: 12 |
-Humidity: 167 |
+temp: 12°C |
+Humidity: 167%DH |
 
 OFF: |
 --- |
-temp: 0 |
-Humidity: 0 |
+temp: 0°C |
+Humidity: 0%DH |
 
 ---------------------------------------------------------------
 The temperature data is currently being transferred in the program.
