@@ -11,7 +11,7 @@ by Adafruit Wersja 1.4.2
 Adafruit ESP8266
 by Adafruit Wersja 1.0.1
 
-Adres Api serwera IP: 192.168.0.20 /24 
+Server Api address: 192.168.0.20 /24 
 
 
 ### Response Code ###
